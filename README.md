@@ -1,2 +1,2 @@
 # UserAuthFlask
-User Authentication in flask.
+Flask User Authentication and MySQL Project
